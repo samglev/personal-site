@@ -1,6 +1,6 @@
 function NavItem({ title, dest }) {
     return (
-        <a href= {dest} className="hover:underline">{title}</a>
+        <a href= {dest} className="hover:underline text-xl">{title}</a>
     )
 }
 

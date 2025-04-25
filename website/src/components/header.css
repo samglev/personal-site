@@ -1,0 +1,7 @@
+.home-link {
+    font-size: 30px;
+}
+
+.home-link:hover {
+    text-decoration: none;
+}
